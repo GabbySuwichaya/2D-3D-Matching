@@ -7,6 +7,7 @@
 | [Arxiv, April2019] |  2D3D-MatchNet: Learning to Match Keypoints Across 2D Image and 3D Point Cloud  | [PDF](https://arxiv.org/pdf/1904.09742.pdf) | [github](  https://github.com/mengdanfeng/2D3D-MatchNet) | Output is the prioritized matches  |
 | [CVPR2018] | Learning Less is More – 6D Camera Localization via 3D Surface Regression | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Brachmann_Learning_Less_Is_CVPR_2018_paper.pdf) | [github](https://github.com/vislearn/LessMore)  | Output is the estimated camera pose  | 
 | [ICCV2019] | Expert Sample Consensus Applied to Camera Re-Localization | [PDF](https://arxiv.org/pdf/1908.02484.pdf) | [github](https://github.com/vislearn/esac)  | Output is the estimated camera pose. It extended LessisMore(CVPR2018) for large scale dataset.  | 
+| [CVPR2020] | KFNet: Learning Temporal Camera Relocalization using Kalman Filtering | [PDF](https://arxiv.org/pdf/1908.02484.pdf) | [github](https://github.com/zlthinker/KFNet)  | Output is the estimated camera pose. SCoordNet is the 1-short retrieval version of KFNet. It seems to be better than ICCV2019, especially on runtime.  | 
 
 ### Case 2 :  Papers for Localization where 2D images is given to match 3D SfM.... 
 | Year | Paper | link | Code | Extra.  |
