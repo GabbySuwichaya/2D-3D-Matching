@@ -21,3 +21,4 @@
 | Year | Paper | link | Code | Extra.  |
 | --- | --- | --- | --- |  --- |  
 | ECCV 2020 |  DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization | [PDF](https://arxiv.org/pdf/2007.09217.pdf)  |  [github](https://github.com/JuanDuGit/DH3D)  |  https://vision.in.tum.de/research/vslam/dh3d |
+| ECCV2020  | 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection  | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720715.pdf) |
